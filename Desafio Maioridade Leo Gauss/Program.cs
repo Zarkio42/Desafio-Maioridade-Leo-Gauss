@@ -10,6 +10,8 @@ namespace Desafio_Maioridade_Leo_Gauss
     {
         static void Main(string[] args)
         {
+            /*Faça um programa que pergunte ao usuario a idade dele e retorne se é maior de idade ou não. Em casos negativos, 
+             * diga quantos anos ainda faltam até ele atingi-la.  */
             int idade;
 
             Console.WriteLine("Digite sua idade");
